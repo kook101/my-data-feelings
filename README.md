@@ -1,6 +1,6 @@
 # my-data-feelings
 
-> Repo for the project and workshop on how to make your own generative data feelings web application.
+> Repo for the project and workshop on how to make your own generative data feelings web application for Quantified Humanists class.
 
 NOTE: for documentation and details see: `/docs`
 
